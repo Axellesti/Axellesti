@@ -19,8 +19,8 @@
 
 <hr>
 
-<p align="center" ![axellesti's Stats](https://github-readme-stats.vercel.app/api?username=axellesti&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) </p>
+![axellesti's Stats](https://github-readme-stats.vercel.app/api?username=axellesti&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-<p align="center" ![axellesti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=axellesti&theme=vue-dark&hide_border=false) </p>
+![axellesti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=axellesti&theme=vue-dark&hide_border=false)
 
-<p align="center ![axellesti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axellesti&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) </p>
+![axellesti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axellesti&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
