@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🤓, I'm Axelle !</h1>
 <h3 align="center">Currently learning as a fullstack web and mobile developer at Wild Code School</h3>
 
-- 🔭 I’m currently working on **Little Paws** !
+- 🔭 I’m currently working on **Little Paws** and **My Portfolio** !
 
 - 📫 How to reach me **axellestipro@gmail.com**
 
